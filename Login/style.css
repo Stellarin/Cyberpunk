@@ -89,3 +89,19 @@ body {
   display: flex;
   justify-content: space-around;
 }
+
+.password {
+  font-family: 'Martian Mono', monospace;
+  font-size: 0.7em;
+  background-color: #131313;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-bottom-color: #DFFF00;
+  outline: none;
+  color: #DFFF00;
+  height: 3.8em;
+}
